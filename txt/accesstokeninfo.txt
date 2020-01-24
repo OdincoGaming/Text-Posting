@@ -1,0 +1,176 @@
+https://graph.facebook.com/v4.0/oauth/access_token?grant_type=fb_exchange_token&client_id=752518411844646&client_secret=db5bc5d92bf8fbc28dcd2af003f345c9&fb_exchange_token=EAAKsaVifZCCYBAHhGJs5mH5DFBqnWe2y0hae5TjZATkinTql4AMYIcUpX71O4Nxxfup0VqU5kXcbFiMdw13AOlmuIF8DvcGjk8bygTdmkF42XhH1uGpe2HFGRZAG0Nyfo286Ytz74xraZC8Lpvd0n1pv69eZAATfOebeUUrz1axZADZArIx39Hjw95HTkUE3lM8RxlnRDqUqwZDZD
+
+EAAKsaVifZCCYBABsjAZBy3UFZB6apdJdOUU6WFO6OQif1rvOaXGdHpnopyjan0Aw7g8KVtJuwXRUhfWZCyY2E3ptmzgwZAHf2WZCLKECQSGYSwsEBlu46SRmpSkxZBZBU0CtC94YxohprgBPmNC2W48y5dtLdbHCUGk6ZArSg1vFIJgZDZD
+
+
+
+    https://graph.facebook.com/v2.10/me?access_token=EAAKsaVifZCCYBABsjAZBy3UFZB6apdJdOUU6WFO6OQif1rvOaXGdHpnopyjan0Aw7g8KVtJuwXRUhfWZCyY2E3ptmzgwZAHf2WZCLKECQSGYSwsEBlu46SRmpSkxZBZBU0CtC94YxohprgBPmNC2W48y5dtLdbHCUGk6ZArSg1vFIJgZDZD
+
+2894021623958853
+
+
+
+    https://graph.facebook.com/v2.10/2894021623958853/accounts?access_token=EAAKsaVifZCCYBABsjAZBy3UFZB6apdJdOUU6WFO6OQif1rvOaXGdHpnopyjan0Aw7g8KVtJuwXRUhfWZCyY2E3ptmzgwZAHf2WZCLKECQSGYSwsEBlu46SRmpSkxZBZBU0CtC94YxohprgBPmNC2W48y5dtLdbHCUGk6ZArSg1vFIJgZDZD
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+data	
+0	
+access_token	"EAAKsaVifZCCYBAOCwOg2w5IDifnnm8VCa43s2DyNH21tpdKSyawZACdBzpLlofIr43XCEaMwDXx5YgJpQOmzijwKy32btBH6j1m9Cdo1MqNs6c13nuTfj2UYzkg4aI3qBfqegNgb4OREfQZCZBc7oDDHFZAGttdNQzrPbHNPz5ahFZCsOU2IgU"
+category	"Public Figure"
+category_list	
+0	
+id	"1602"
+name	"Public Figure"
+name	"Freddy"
+id	"173054756044526"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+1	
+access_token	"EAAKsaVifZCCYBALpMDMpE6jS3zZCujjyrrqBT1RcE60vbtBZBY3Lkpe2HZAszMbPZALcZCU2hehVwQf88zNp0Cv74yHEEKYPBwhYMBmgpdviZAdVJB44lMWbHqypzn66gAoHMixH94hCaHc4CDrFRfZBY5tpKeoA7IWRXlBlvGZCO9fE2Yk8o4DDv"
+category	"Fictional Character"
+category_list	
+0	
+id	"1113"
+name	"Fictional Character"
+name	"Bekah Flourers"
+id	"179578008841172"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+2	
+access_token	"EAAKsaVifZCCYBAHsZBkabUwJxZBZAiHDd1gfetUerdL65mjiGMuhpOSJV1YNIyQYEkPa24RHYYmHd62Rg1o8M71pikJOjNZBVZBKtXI60MJdXtfxVwKHCkFmJ7lt2AvZBZCo3NRzvfS7bNieWy5mZB8oEVzB9Q03gJU3GXwXy8SV0uZBATDKxaCg3V"
+category	"Movie"
+category_list	
+0	
+id	"1105"
+name	"Movie"
+name	"Freddy Verses Jason"
+id	"196219347191630"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+3	
+access_token	"EAAKsaVifZCCYBADGj7Eq51was1uexyQhiZAjaDETDrnBXHZCVM05PaF0ZC0pDFvtgZAhqx835tn2rZBf3Hf9ycl3sgPTc8PZCgtRSEQLfZAUsF44ucwnvamaJF5PTBZBXD8Pn7VkBTXoIPGZCewBKlLKkrL5kRpHoWmTWW9WzMIkQIMCFIbUCLNZBFl"
+category	"Community"
+category_list	
+0	
+id	"2612"
+name	"Community"
+name	"Man > woman"
+id	"243098972407991"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+4	
+access_token	"EAAKsaVifZCCYBAELXYS3ZAB4qmSmNT0On5CNjVnpzBLnJHuYaAib3fqqZAaPiCZB5XcgTlqEx0LpaLJAc0lDZB0KHDHh67B5Ut18PgIyubzxQY0ZBtZCsL9vsM1U8sVFThqTW1hBAs9IyppRiPUTY0s5nRsrv6pIrhFAHd318trXG9HRQclhcUq"
+category	"Community"
+category_list	
+0	
+id	"2612"
+name	"Community"
+name	"Naturalism"
+id	"279594295460932"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+5	
+access_token	"EAAKsaVifZCCYBAGD7W9TRaIPxBui9djuUy7FdLEsbDDpesKuVbXsr33wiYsRHZBstH6uZC8u2ZB6XZB2s8HmK88K6ccEdGdlsfWJApqrkfjDcHY8q0LGu5PaD1yqmkiNwu1nYVi3BMQveaDhP3IZBUxxm0KymNAKo7KSZBcpv0ZAyz6YXWVEUWfx"
+category	"Movie"
+category_list	
+0	
+id	"1105"
+name	"Movie"
+name	"Sons Of Odin"
+id	"348639915193848"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+6	
+access_token	"EAAKsaVifZCCYBABeccfUDdw8JConNTgxAWZBZAQv3m1gxG5aLb6GZAGNGSidbccGsw4l5bmbI2le61RTJY9TZAurpr5iChZBzwmC5BdQrnpb1dVdYtvZCvp8R0CKNZAVKh9rEMHGe3MJThj5DY61HNn7DlqSZAFQfmvs0ZAimYVQp8KTKhZBZBFtFwd4"
+category	"Computer Company"
+category_list	
+0	
+id	"2255"
+name	"Computer Company"
+name	"Navarre Game Design Club"
+id	"370354409758356"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+7	
+access_token	"EAAKsaVifZCCYBAFJd2G6lRStE9o80lUZApEfVUn9FOwSwiZAzGkZAcUQSRq0AUxyaOVEIsTyATBtaPjXfVlBnrdqRhTkKOHrwVYTExQEiA3D8F45PLODZAg5mzR7d62BsWZCVlviyRHps2J2LFyujUTsBT3VuJQ4Ue1kcGgEORaxBL2ZCj0NPkZA"
+category	"App Page"
+category_list	
+0	
+id	"2301"
+name	"App Page"
+name	"ASCII Boxing"
+id	"527134247630389"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+8	
+access_token	"EAAKsaVifZCCYBAPjrso1FO66Iv5NzKZAfiiLqnxpdWSMahCZAiQWwPWeGI3SIYfiaMPGk9HKFkP56SH7B7pVJMZBNiDG2rEqkxEVnmJFbG4iDe38v5ZAyZBlnW5No3XNY5F8kCjK5aPooHNLZABNru10wUxEnFCPCnVFS10u001EpX9VZC2ZB2IsN"
+category	"Local Business"
+category_list	
+0	
+id	"2500"
+name	"Local Business"
+name	"Frederick and Joshua Lyle"
+id	"1900759086842562"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+9	
+access_token	"EAAKsaVifZCCYBAPJiX87FjYaXHZBtn79YIbznQXK6h0m0zQd347cOC1JGCnPgWLPT4a8wCfgqopxfy86tcmL5vVzWO7QnFxDtXnBvZAJh7aX0ZBwPiiGPDZBZBQIdeO3AxolC6rOL2pJf4cAd2A5WH4qVZC8plv0hv1VBACwMMRGtW3YoKhudcY"
+category	"Comedian"
+category_list	
+0	
+id	"1610"
+name	"Comedian"
+1	
+id	"2700"
+name	"Personal Blog"
+name	"Memes anonymous"
+id	"2446077272292588"
+tasks	
+0	"ANALYZE"
+1	"ADVERTISE"
+2	"MODERATE"
+3	"CREATE_CONTENT"
+4	"MANAGE"
+paging	
+cursors	
+before	"MTczMDU0NzU2MDQ0NTI2"
+after	"MjQ0NjA3NzI3MjI5MjU4OAZDZD"
